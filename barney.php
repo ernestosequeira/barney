@@ -44,7 +44,7 @@
 	?>
 <p><b>Nota:</b> Esto es una prueba educativa</p>
 
-<div align="center"><a href="https://github.com/ernestosequeira/DoS/">Github</a></div>
+<div align="center"><a href="https://github.com/ernestosequeira/barney/">Github</a></div>
 
 </body>
 </html>
